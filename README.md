@@ -8,4 +8,4 @@ Accurate Weather Data: The Weather Forecast App utilizes trusted weather data so
 
 Location-Based Forecast: Automatically detects your current location and delivers localized weather forecasts, making it easy to plan your day or travel with confidence.
 
-Hourly and
+Hourly and Daily Forecasts: Get detailed hour-by-hour and daily weather forecasts, so you can plan your activities accordingly and stay ahead of any weather changes.
